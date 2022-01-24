@@ -1,7 +1,0 @@
-[0m[[0m[31merror[0m] [0m[0m/Users/joanna.pinto/Documents/code/houses/src/main/scala/StampDutyCalculator.scala:21:40: invalid literal number[0m
-[0m[[0m[31merror[0m] [0m[0m    val atTwoPercent: Long = 125000L * 0.02L[0m
-[0m[[0m[31merror[0m] [0m[0m                                       ^[0m
-[0m[[0m[31merror[0m] [0m[0m/Users/joanna.pinto/Documents/code/houses/src/main/scala/StampDutyCalculator.scala:22:65: invalid literal number[0m
-[0m[[0m[31merror[0m] [0m[0m    val atFivePercent: Long = (purchasePriceAsLong - 250000L) * 0.05L[0m
-[0m[[0m[31merror[0m] [0m[0m                                                                ^[0m
-[0m[[0m[31merror[0m] [0m[0mtwo errors found[0m
